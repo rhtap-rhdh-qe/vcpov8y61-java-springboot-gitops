@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vcpov8y61-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vcpov8y61-java-springboot
